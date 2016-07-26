@@ -1,7 +1,7 @@
 {
-  "name": "@ldn0x7dc/react-native-view-pager",
+  "name": "react-native-view-pager-2",
   "version": "0.0.9",
-  "description": "",
+  "description": "Fork of @ldn0x7dc/react-native-view-pager",
   "main": "library/ViewPager.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
